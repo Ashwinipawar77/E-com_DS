@@ -16,7 +16,7 @@ def recursive_triangle(x, n):
     line_number = x
     # I'll create an empty string that we can concatenate values to.
     line_print = ''
-
+#
 # The difference value will determine how many shapes are needed to fill the line before the stars are printed.
     difference = star_print - line_number
     # If difference is not zero, we will print that value of spaces before the stars. The star print will be the
