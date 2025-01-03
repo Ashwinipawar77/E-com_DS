@@ -5,7 +5,7 @@ print(x)
 print(y)
 print(z)
 
-# if
+
 def triangle(n):
     return recursive_triangle(n, n)
 
